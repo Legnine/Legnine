@@ -24,8 +24,6 @@ You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fando
 
 My roblox user is @Legnine
 
-### ![Metrics](/metrics.js)
-
 <!--
 **Legnine/legnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
